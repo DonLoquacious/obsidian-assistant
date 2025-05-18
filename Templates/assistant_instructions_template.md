@@ -1,0 +1,8 @@
+name: [Your Assistant Name]
+model: [gpt-4o]
+reasoning_effort: [Enter value or leave empty]
+response_format: [Enter format or leave empty- default is 'auto']
+temperature: [Enter value or leave empty- default 1]
+top_p: [Enter value or leave empty- default 1]
+description: [Enter description here or leave empty]
+instructions: [Enter detailed instructions here or leave empty]
